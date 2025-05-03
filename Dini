@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Surprise!</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #fff0f5;
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      color: #e91e63;
+      font-size: 2em;
+    }
+  </style>
+</head>
+<body>
+  <h1>I love you Dini cantikk</h1>
+</body>
+</html>
